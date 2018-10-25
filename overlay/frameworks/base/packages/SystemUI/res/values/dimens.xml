@@ -16,16 +16,6 @@
 ** limitations under the License.
 */
 -->
-<<<<<<< HEAD
- <!-- These resources are around just to allow their values to be customized
-     for different hardware and product builds. -->
-<resources>
-     <!-- more realistic padding -->
-    <dimen name="rounded_corner_content_padding">12dp</dimen>
-    <!-- Rounded display corners-->
-    <dimen name="rounded_corner_radius">18dp</dimen>
- </resources>
-=======
 
 <!-- These resources are around just to allow their values to be customized
      for different hardware and product builds. -->
@@ -37,4 +27,4 @@
     <dimen name="rounded_corner_radius">18dp</dimen>
 
 </resources>
->>>>>>> 23966a6... Add Rounded Corners and Padding
+
