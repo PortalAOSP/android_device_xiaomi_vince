@@ -43,8 +43,5 @@ TARGET_TAP_TO_WAKE_NODE := "/sys/devices/soc/78b7000.i2c/i2c-3/3-0020/input/inpu
 BOARD_PROPERTY_OVERRIDES_SPLIT_ENABLED := true
 PRODUCT_FULL_TREBLE_OVERRIDE := true
 
-# Inherit some PEX stuff
-BOARD_USES_AOSP_WLAN_HAL := true
-
 # Inherit from the proprietary version
 -include vendor/xiaomi/vince/BoardConfigVendor.mk
